@@ -1,0 +1,502 @@
+admin
+adm
+admincp
+Adcp
+cp
+modcp
+moderatorcp
+adminare
+admin
+cpanel
+panel kendali
+admin1.php
+admin1.html
+admin2.php
+admin2.html
+yonetim.php
+yonetim.html
+yonetici.php
+yonetici.html
+ccms /
+ccms / login.php
+ccms / index.php
+pemeliharaan/
+webmaster /
+adm /
+konfigurasi/
+konfigurasikan /
+websvn /
+admin /
+admin / akun.php
+admin / akun.html
+admin / index.php
+admin / index.html
+admin / login.php
+admin / login.html
+admin / home.php
+admin / controlpanel.html
+admin / controlpanel.php
+admin.php
+admin.html
+admin / cp.php
+admin / cp.html
+cp.php
+cp.html
+administrator/
+administrator / index.html
+administrator / index.php
+administrator / login.html
+administrator / login.php
+administrator / akun.html
+administrator / akun.php
+administrator.php
+administrator.html
+login.php
+login.html
+modelsearch / login.php
+moderator.php
+moderator.html
+moderator / login.php
+moderator / login.html
+moderator / admin.php
+moderator / admin.html
+moderator /
+akun.php
+account.html
+panel kendali/
+controlpanel.php
+controlpanel.html
+admincontrol.php
+admincontrol.html
+adminpanel.php
+adminpanel.html
+admin1.asp
+admin2.asp
+yonetim.asp
+yonetici.asp
+admin / akun.asp
+admin / index.asp
+admin / login.asp
+admin / home.asp
+admin / controlpanel.asp
+admin.asp
+admin / cp.asp
+cp.asp
+administrator / index.asp
+administrator / login.asp
+administrator / akun.asp
+administrator.asp
+login.asp
+modelsearch / login.asp
+moderator.asp
+moderator / login.asp
+moderator / admin.asp
+account.asp
+controlpanel.asp
+admincontrol.asp
+adminpanel.asp
+fileadmin /
+fileadmin.php
+fileadmin.asp
+fileadmin.html
+administrasi/
+administration.php
+administration.html
+sysadmin.php
+sysadmin.html
+phpmyadmin /
+myadmin /
+sysadmin.asp
+sysadmin /
+ur-admin.asp
+ur-admin.php
+ur-admin.html
+ur-admin /
+Server.php
+Server.html
+Server.asp
+Server /
+wp-admin /
+administr8.php
+administr8.html
+administ8 /
+administr8.asp
+webadmin /
+webadmin.php
+webadmin.asp
+webadmin.html
+administrasi /
+admin /
+admin.php
+admin.asp
+admin.html
+administrivia /
+Database_Administration /
+WebAdmin /
+useradmin /
+sysadmin /
+admin1 /
+sistem administrasi/
+administrator /
+pgadmin /
+directadmin /
+staradmin /
+Administrator Server /
+SysAdmin /
+mengelola/
+LiveUser_Admin /
+sys-admin /
+typo3 /
+panel/
+cpanel /
+cPanel /
+cpanel_file /
+platz_login /
+rcLogin /
+blogindex /
+formlogin /
+autologin /
+support_login /
+meta_login /
+manuallogin /
+simpleLogin /
+loginflat /
+utility_login /
+showlogin /
+memlogin /
+anggota /
+login-redirect /
+sub-login /
+wp-login /
+login1 /
+masuk-login /
+login_db /
+xlogin /
+smblogin /
+Login Kostumer/
+UserLogin /
+login-us /
+acct_login /
+admin_area /
+bigadmin /
+admin proyek /
+phppgadmin /
+pureadmin /
+sql-admin /
+Radmind /
+openvpnadmin /
+wizmysqladmin /
+vadmind /
+ezsqliteadmin /
+hpwebjetadmin /
+newsadmin /
+adminpro /
+Lotus_Domino_Admin /
+bbadmin /
+vmailadmin /
+Indy_admin /
+ccp14admin /
+irc-macadmin /
+banneradmin /
+sshadmin /
+phpldapadmin /
+macadmin /
+akun administrator /
+admin4_account /
+admin4_colon /
+radmind-1 /
+Admin Super /
+AdminTools /
+cmsadmin /
+SysAdmin2 /
+globes_admin /
+kadmin /
+phpSQLiteAdmin /
+navSiteAdmin /
+server_admin_small /
+logo_sysadmin /
+server /
+database_administrasi /
+power_user /
+sistem administrasi/
+ss_vms_admin_sm /
+adminarea /
+bb-admin /
+adminLogin /
+administrasi-panel /
+instadmin /
+memberadmin /
+administratorlogin /
+admin / admin.php
+admin_area / admin.php
+admin_area / login.php
+siteadmin / login.php
+siteadmin / index.php
+siteadmin / login.html
+admin / admin.html
+admin_area / index.php
+bb-admin / index.php
+bb-admin / login.php
+bb-admin / admin.php
+admin_area / login.html
+admin_area / index.html
+admincp / index.asp
+admincp / login.asp
+admincp / index.html
+webadmin / index.html
+webadmin / admin.html
+webadmin / login.html
+admin / admin_login.html
+admin_login.html
+panel-administrasi / login.html
+nsw / admin / login.php
+webadmin / login.php
+admin / admin_login.php
+admin_login.php
+admin_area / admin.html
+halaman / admin / admin-login.php
+admin / admin-login.php
+admin-login.php
+bb-admin / index.html
+bb-admin / login.html
+bb-admin / admin.html
+admin / home.html
+halaman / admin / admin-login.html
+admin / admin-login.html
+admin-login.html
+admin / adminLogin.html
+adminLogin.html
+home.html
+rcjakar / admin / login.php
+adminarea / index.html
+adminarea / admin.html
+webadmin / index.php
+webadmin / admin.php
+user.html
+modelsearch / login.html
+adminarea / login.html
+panel-administrasi / index.html
+panel-administrasi / admin.html
+modelsearch / index.html
+modelsearch / admin.html
+admincontrol / login.html
+adm / index.html
+adm.html
+user.php
+panel-administrasi / login.php
+wp-login.php
+adminLogin.php
+admin / adminLogin.php
+home.php
+adminarea / index.php
+adminarea / admin.php
+adminarea / login.php
+panel-administrasi / index.php
+panel-administrasi / admin.php
+modelsearch / index.php
+modelsearch / admin.php
+admincontrol / login.php
+adm / admloginuser.php
+admloginuser.php
+admin2 / login.php
+admin2 / index.php
+adm / index.php
+adm.php
+affiliate.php
+adm_auth.php
+memberadmin.php
+administratorlogin.php
+admin / admin.asp
+admin_area / admin.asp
+admin_area / login.asp
+admin_area / index.asp
+bb-admin / index.asp
+bb-admin / login.asp
+bb-admin / admin.asp
+halaman / admin / admin-login.asp
+admin / admin-login.asp
+admin-login.asp
+user.asp
+webadmin / index.asp
+webadmin / admin.asp
+webadmin / login.asp
+admin / admin_login.asp
+admin_login.asp
+panel-administrasi / login.asp
+adminLogin.asp
+admin / adminLogin.asp
+home.asp
+adminarea / index.asp
+adminarea / admin.asp
+adminarea / login.asp
+panel-administrasi / index.asp
+panel-administrasi / admin.asp
+modelsearch / index.asp
+modelsearch / admin.asp
+admincontrol / login.asp
+adm / admloginuser.asp
+admloginuser.asp
+admin2 / login.asp
+admin2 / index.asp
+adm / index.asp
+adm.asp
+affiliate.asp
+adm_auth.asp
+memberadmin.asp
+administratorlogin.asp
+siteadmin / login.asp
+siteadmin / index.asp
+ADMIN /
+kontrol paneld /
+Gabung/
+cms /
+memperingatkan /
+ADMON /
+Administrador /
+ADMIN / login.php
+panelc /
+ADMIN / login.html
+administrator / Logon.asp
+/0admin/login.asp
+/0manager/admin.asp
+/_database/forumFips.mdb
+/_fipsdb/db.mdb
+/_private/discussion.mdb
+/_vti_pvt/administrator.pwd
+/a_main.asp
+/aaa.asp
+/ aadmin /
+/ abc /
+/di luar negeri/
+/access/sf2.mdb
+/Akun
+/account.asp
+/account.html
+/account.php
+/akun
+/acct/login.asp
+/ acct_login /
+/acessa.asp
+/ acesso
+/acesso..asp
+/acesso.asp
+/ acesso /
+/iklan
+/ad.asp
+/iklan/
+/ ad / img
+/ad_admin/admin_login.asp
+/ ad_login
+/ad_login.asp
+/ ad_login /
+/ ad_manage
+/ad_manage.asp
+/ ad_manage /
+/Menambahkan
+/add.asp
+/ add_admin
+/add_admin.asp
+/Tambahkan pengguna
+/addfile.asp
+/addlb.asp
+/Tambahkan anggota
+/addmember.asp
+/alamat
+/Tambahkan pengguna
+/adduser.asp
+/ adlogin
+/adm.asp
+/adm.html
+/ adm /
+/adm/admloginuser.asp
+/adm/entra.asp
+/adm/entrar.asp
+/adm/index.asp/
+/adm/index.html
+/adm/loga.asp
+/adm_auth.asp
+/ adm_login
+/adm_login.asp
+/ adm_login /
+/adm_user.asp
+/ pengelolaan
+/admim.mdb
+/admin-login.asp
+/admin-login.html/
+/admin.asp
+/admin.html
+/admin.php
+/ admin /
+/admin/account.asp
+/admin/account.html
+/admin/account.php
+/admin/add.asp
+/admin/adm_menu.asp
+/admin/admin-login.asp
+/admin/admin-login.html
+/admin/admin.asp
+/admin/admin.html
+/admin/admin_6list.asp
+/admin/admin_backup.asp
+/admin/Admin_Login.asp
+/admin/admin_login.html
+/admin/admin_upfile.asp
+/admin/adminLogin.asp
+/admin/adminLogin.html
+/admin/chkfile.asp
+/admin/chkpic.asp
+/admin/config.asp
+/admin/config.inc.asp
+/admin/controlpanel.asp
+/admin/controlpanel.html
+/admin/controlpanel.php
+/admin/cp.asp
+/admin/cp.html
+/admin/cp.php
+/admin/data/qcdn_news.mdb
+/admin/data/user.asp
+/admin/Databackup/NewCloud_backup.mdb
+/ admin / default
+/admin/default.asp
+/ admin / default /
+/admin/default/admin.asp
+/admin/default/login.asp
+/admin/delepic.asp
+/admin/delete.asp
+/admin/delfile.asp
+/admin/editfile.asp
+/ Admin / Editor
+/admin/editor/db/ewebeditor.mdb
+/admin/editpic.asp
+/admin/ewebeditor/admin_login.asp
+/admin/getpic.asp
+/admin/getpic.htm
+/admin/home.asp
+/admin/home.html
+/admin/home.php
+/admin/htmledit/db/ewebeditor.mdb
+/ admin / indeks
+/admin/index.asp
+/admin/index.html
+/admin/index.php
+/ admin / indeks /
+/ admin / login
+/admin/login.asp
+/admin/login.html
+/admin/login.php
+/ admin / login /
+/ admin / kelola
+/admin/manage.asp
+/ admin / kelola /
+/admin/manage/admin.asp
+/admin/manage/login.asp
+/admin/new.asp
+/admin/news.asp
+/admin/pic.asp
+/admin/quote.mdb
+/admin/Select_feedback.asp
+/admin/sendfile.asp
+/admin/sndfile.asp
+/admin/upfile.asp
+/admin/upload.asp
+/admin/uploadfaceok
