@@ -8,6 +8,6 @@ $pkg install php
 
 $git clone https://github.com/AntXx4/AdminFinder
 
-$cd admin-finder
+$cd AdminFinder
 
 $php adlog.php
