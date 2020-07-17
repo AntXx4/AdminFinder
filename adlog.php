@@ -21,7 +21,7 @@ print "
 
 echo "masukan site  : ";
 $target = trim(fgets(STDIN));
-$list = "mcs_wordlist.txt";
+$list = "Ls_wordlist.txt";
 if(!preg_match("/^http:\/\//",$target) AND !preg_match("/^https:\/\//",$target)){
 	$targetnya = "http://$target";
 }else{
